@@ -1,12 +1,13 @@
 #include<stdio.h>
- 
+#include<stdlib.h>
+
 int main()
 {
-	char message[100], ch;
-	int i, key;
 	
-	
-	
+char message[100];
+int key;
+
+
 	
 	return 0;
 }
