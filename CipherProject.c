@@ -1,13 +1,9 @@
-#include<stdio.h>
-#include<stdlib.h>
-
-int main()
-{
-	
-char message[100];
-int key;
+#include <stdio.h>
+main() {
+    char str[] = "Bam";
 
 
-	
-	return 0;
+printf("%s\n", str);
+
+return 0;
 }
